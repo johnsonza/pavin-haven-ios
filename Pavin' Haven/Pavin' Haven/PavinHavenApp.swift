@@ -15,3 +15,9 @@ struct PavinHavenApp: App {
         }
     }
 }
+
+struct Previews_PavinHavenApp_Previews: PreviewProvider {
+    static var previews: some View {
+        Text("Pavin' Haven")
+    }
+}
